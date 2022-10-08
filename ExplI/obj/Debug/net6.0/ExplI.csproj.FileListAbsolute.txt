@@ -1,0 +1,15 @@
+C:\Users\student\Documents\gg1\Examples\ExplI\bin\Debug\net6.0\ExplI.exe
+C:\Users\student\Documents\gg1\Examples\ExplI\bin\Debug\net6.0\ExplI.deps.json
+C:\Users\student\Documents\gg1\Examples\ExplI\bin\Debug\net6.0\ExplI.runtimeconfig.json
+C:\Users\student\Documents\gg1\Examples\ExplI\bin\Debug\net6.0\ExplI.dll
+C:\Users\student\Documents\gg1\Examples\ExplI\bin\Debug\net6.0\ExplI.pdb
+C:\Users\student\Documents\gg1\Examples\ExplI\obj\Debug\net6.0\ExplI.csproj.AssemblyReference.cache
+C:\Users\student\Documents\gg1\Examples\ExplI\obj\Debug\net6.0\ExplI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\gg1\Examples\ExplI\obj\Debug\net6.0\ExplI.AssemblyInfoInputs.cache
+C:\Users\student\Documents\gg1\Examples\ExplI\obj\Debug\net6.0\ExplI.AssemblyInfo.cs
+C:\Users\student\Documents\gg1\Examples\ExplI\obj\Debug\net6.0\ExplI.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\gg1\Examples\ExplI\obj\Debug\net6.0\ExplI.dll
+C:\Users\student\Documents\gg1\Examples\ExplI\obj\Debug\net6.0\refint\ExplI.dll
+C:\Users\student\Documents\gg1\Examples\ExplI\obj\Debug\net6.0\ExplI.pdb
+C:\Users\student\Documents\gg1\Examples\ExplI\obj\Debug\net6.0\ExplI.genruntimeconfig.cache
+C:\Users\student\Documents\gg1\Examples\ExplI\obj\Debug\net6.0\ref\ExplI.dll
