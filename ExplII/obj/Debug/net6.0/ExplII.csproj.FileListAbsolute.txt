@@ -1,0 +1,15 @@
+C:\Users\student\Documents\gg1\Examples\ExplII\bin\Debug\net6.0\ExplII.exe
+C:\Users\student\Documents\gg1\Examples\ExplII\bin\Debug\net6.0\ExplII.deps.json
+C:\Users\student\Documents\gg1\Examples\ExplII\bin\Debug\net6.0\ExplII.runtimeconfig.json
+C:\Users\student\Documents\gg1\Examples\ExplII\bin\Debug\net6.0\ExplII.dll
+C:\Users\student\Documents\gg1\Examples\ExplII\bin\Debug\net6.0\ExplII.pdb
+C:\Users\student\Documents\gg1\Examples\ExplII\obj\Debug\net6.0\ExplII.csproj.AssemblyReference.cache
+C:\Users\student\Documents\gg1\Examples\ExplII\obj\Debug\net6.0\ExplII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\gg1\Examples\ExplII\obj\Debug\net6.0\ExplII.AssemblyInfoInputs.cache
+C:\Users\student\Documents\gg1\Examples\ExplII\obj\Debug\net6.0\ExplII.AssemblyInfo.cs
+C:\Users\student\Documents\gg1\Examples\ExplII\obj\Debug\net6.0\ExplII.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\gg1\Examples\ExplII\obj\Debug\net6.0\ExplII.dll
+C:\Users\student\Documents\gg1\Examples\ExplII\obj\Debug\net6.0\refint\ExplII.dll
+C:\Users\student\Documents\gg1\Examples\ExplII\obj\Debug\net6.0\ExplII.pdb
+C:\Users\student\Documents\gg1\Examples\ExplII\obj\Debug\net6.0\ExplII.genruntimeconfig.cache
+C:\Users\student\Documents\gg1\Examples\ExplII\obj\Debug\net6.0\ref\ExplII.dll
